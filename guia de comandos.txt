@@ -1,0 +1,9 @@
+ 1 git init -> Criar o repositório local
+ 2
+ 3 git remote add origin 'link do GitHub'
+ 4
+ 5 git add .
+ 6
+ 7 git commit -m "mensagem de commit"
+ 8 
+ 9 git push origin main
